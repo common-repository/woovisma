@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.login {
+  position: relative;
+  margin: 0 auto;
+  padding: 20px 20px 20px;
+  width: 100%;
+  background: white;
+  border-radius: 3px;
+}
+.login table td
+{
+    padding:5px;
+}
